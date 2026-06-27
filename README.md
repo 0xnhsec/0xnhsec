@@ -14,6 +14,7 @@ A passionate **Security Researcher** and **Bug Hunter** specializing in Layer 7 
 
 ### 🔍 Vulnerability Lab
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Lineageos](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
 
 ```php
 <?php 
