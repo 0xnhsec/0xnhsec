@@ -30,5 +30,6 @@ A passionate **Security Researcher** and **Bug Hunter** specializing in Layer 7 
     Status: Close and disappear.
 # SUPPORT US
 
-[0xnhsec](https://www.instagram.com/0xnhsec?igsh=MTNmd2pwcWRvajE2dQ==)
-[0xNoshiro](https://www.instagram.com/nr0x0019976?igsh=ZzB4bmVlZ2M5N3l1)
+[0xnhsec-Social](https://www.instagram.com/0xnhsec?igsh=MTNmd2pwcWRvajE2dQ==) [0xnhsec-Github](https://github.com/0xnhsec)
+
+[0xNoshiro-Social](https://www.instagram.com/nr0x0019976?igsh=ZzB4bmVlZ2M5N3l1) [0xNoshiro-Github](https://github.com/0xNoshiro)
