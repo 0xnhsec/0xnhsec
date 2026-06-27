@@ -1,16 +1,34 @@
-## Hi there 👋
+[KLICK ME](README.js.php.asp.java.py.asm.ts.go.dll.bin.md)
 
-<!--
-**0xnhsec/0xnhsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> `[Klick2](<?php echo $_GET['search']; ?>.md)`
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 0x0a0a0a0a // 0xnhsec 
+
+> [!CAUTION]
+> **I dont know why thats the things brings me far away from my real life, even thats sweet than knife with blood.**
+
+A passionate **Security Researcher** and **Bug Hunter** specializing in Layer 7 vulnerabilities, web application exploitation, and deep source code analysis. Operating with precision to break and secure environments. If i get wrong way me up.
+
+---
+
+### 🔍 Vulnerability Lab
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+
+```php
+<?php 
+   // Environment simulation
+   if(isset($_GET['search'])) {
+       include($_GET['search'] . ".md"); 
+   }
+?>
+```
+
+📊 Areas of Expertise
+    Vulnerability Assessment: Advanced Web Pentesting, Business Logic Flaws, API Hacking.
+    Methodologies: Black-box Testing, Source Code Review, Exploit Development.
+    Status: Close and disappear.
+# SUPPORT US
+
+[0xnhsec](https://www.instagram.com/0xnhsec?igsh=MTNmd2pwcWRvajE2dQ==)
+[0xNoshiro](https://www.instagram.com/nr0x0019976?igsh=ZzB4bmVlZ2M5N3l1)
