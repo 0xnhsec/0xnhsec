@@ -7,6 +7,8 @@
 
 > [!CAUTION]
 > **I dont know why thats the things brings me far away from my real life, even thats sweet than knife with blood.**
+
+> [!CAUTION]
 > **"Lost in the layers of abstraction, where the patterns define reality and the filter dictates what survives."**
 
 A passionate **Security Researcher** and **Bug Hunter** specializing in Layer 7 vulnerabilities, web application exploitation, and deep source code analysis. Operating with precision to break and secure environments. If i get wrong way me up.
