@@ -50,8 +50,3 @@ document.write('\u003C\u0064\u0069\u0076\u0020\u0069\u0064\u003D\u0022\u0073
     Vulnerability Assessment: Advanced Web Pentesting, Business Logic Flaws, API Hacking.
     Methodologies: Black-box Testing, Source Code Review, Exploit Development.
     Status: Close and disappear.
-# SUPPORT US
-
-[0xnhsec-Social](https://www.instagram.com/0xnhsec?igsh=MTNmd2pwcWRvajE2dQ==) [0xnhsec-Github](https://github.com/0xnhsec) 
-
-[0xNoshiro-Social](https://www.instagram.com/nr0x0019976?igsh=ZzB4bmVlZ2M5N3l1) [0xNoshiro-Github](https://github.com/0xNoshiro)
