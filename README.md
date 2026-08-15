@@ -11,7 +11,7 @@
 > [!CAUTION]
 > **"Lost in the layers of abstraction, where the patterns define reality and the filter dictates what survives."**
 
-A passionate **Security Researcher** and **Bug Hunter** specializing in Layer 7 vulnerabilities, web application exploitation, and deep source code analysis. Operating with precision to break and secure environments. If i get wrong way me up.
+A passionate **Security Researcher** and **Bug Hunter** specializing in Layer 7 vulnerabilities, web application exploitation, and deep source code analysis. Operating with precision to break and secure environments. 
 
 ---
 
@@ -46,7 +46,3 @@ document.write('\u003C\u0064\u0069\u0076\u0020\u0069\u0064\u003D\u0022\u0073
 \u003E\u003C\u002F\u0066\u006F\u0072\u006D\u003E\u003C\u002F\u0064\u0069\u0076\u003E\u000D');</script>
 ```
 
-📊 Areas of Expertise
-    Vulnerability Assessment: Advanced Web Pentesting, Business Logic Flaws, API Hacking.
-    Methodologies: Black-box Testing, Source Code Review, Exploit Development.
-    Status: Close and disappear.
