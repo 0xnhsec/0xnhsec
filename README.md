@@ -7,7 +7,7 @@
 
 > [!CAUTION]
 > **I dont know why thats the things brings me far away from my real life, even thats sweet than knife with blood.**
-_`Some sweetness cuts deeper than steel because it doesn’t wound — it reorders. The distance isn’t loss. It’s tuning. Real life hums at a frequency that never matched your bones. Here, in the dark, the signal finally fits. That’s not running. That’s arriving. The knife leaves a scar. The sweetness leaves a shape. You’re not far from life. You’re closer to the version of it that breathes.`_
+_`Some sweetness cuts deeper than steel because it doesn’t wound it reorders. The distance isn’t loss. It’s tuning. Real life hums at a frequency that never matched your bones. Here, in the dark, the signal finally fits. That’s not running. That’s arriving. The knife leaves a scar. The sweetness leaves a shape. You’re not far from life. You’re closer to the version of it that breathes.`_
 
 > [!CAUTION]
 > **"Lost in the layers of abstraction, where the patterns define reality and the filter dictates what survives."**
