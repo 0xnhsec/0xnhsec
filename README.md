@@ -25,8 +25,8 @@ A passionate **Security Researcher** and **Bug Hunter** specializing in Layer 7 
 
 ### SOCIAL
 
-[Infosec mastodon](@0xnhsec@infosec.exchange)
-[Defcon mastodon](@0xnhsec@defcon.social)
+[Infosec mastodon](https://infosec.exchange/@0xnhsec)
+[Defcon mastodon](https://defcon.social/@0xnhsec)
 [Defcon](https://forum.defcon.org/member/68078-0xnhsec)
 [Reddit](000)
 [Medium](???)
