@@ -2,7 +2,7 @@
 
 > `[Klick2](<?php echo $_GET['search']; ?>.md)`
 
-
+<img src= ASDF.jpeg />
 # 0x0a0a0a0a // 0xnhsec 
 
 > [!CAUTION]
@@ -23,7 +23,7 @@ A passionate **Security Researcher** and **Bug Hunter** specializing in Layer 7 
 ![](https://github.com/0xnhsec/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/0xnhsec/github-stats/blob/generated/overview.svg#gh-light-mode-only)
 ![](https://github.com/0xnhsec/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/arsa0x/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+
 
 ### SOCIAL
 
