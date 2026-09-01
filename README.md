@@ -1,6 +1,6 @@
 [KLICK ME](README.js.php.asp.java.py.asm.ts.go.dll.bin.md)
 
-> `[Klick2](<?php echo $_GET['search']; ?>.md)`
+> maybe i cant find the bugs for bughunting for money, atleast i have experience to understand it. If someone ask i can tell and sharing with it easly
 
 <img src= ASDF.jpeg />
 # 0x0a0a0a0a // 0xnhsec 
